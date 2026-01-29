@@ -8,7 +8,10 @@ Con este desafío propuesto en la Formación de Java y Spring Boot, creando una 
 
 ---
 ## 💡 Sobre el Desafío 💡
+En este emocionante desafío de programación, se a construido un catálogo de libros: LiterAlura. Donde se realizo solicitudes a una API de libros, manipulación de datos JSON, guardado de información en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.
 
+#### 🎯OBJETIVO
+Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica.
 
 ---
 ## ✨ Características
